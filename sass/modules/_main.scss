@@ -1,0 +1,25 @@
+@import "_vars";
+
+html {
+    background-color: $white;
+}
+
+body {
+    background-color: $primaryColor;
+}
+
+ul {
+    display: inline;
+    li {
+        display: inline;
+        margin-left: 2rem;
+    }
+}
+
+#contact {
+    background-color: #5c72fd;
+}
+
+#about-2 {
+    margin-top: -2rem;
+}
