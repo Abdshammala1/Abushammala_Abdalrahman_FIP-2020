@@ -1,2 +1,9 @@
 # Abushammala_Abdalrahman_FIP-2020
-Portfolio website for my UI/UX Work
+
+Its basic code for my portoflio website ( not completed  )
+
+using 
+* html
+* Css
+* Sass
+* js
